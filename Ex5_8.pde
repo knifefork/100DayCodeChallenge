@@ -1,4 +1,4 @@
-// Example 5-4: Hold down the button
+// 10,Nov,2018
 boolean button = false;
 
 int circleX = 0;
